@@ -1,0 +1,10 @@
+1. Server files server.js, server_b.js,server_c.js and server_d.js communicate to the openstack swift environment endpoint 
+hosted on local machine docker at the ip 192.168.159.134:6010.
+For use this ip and port must be changed as per the requirements.
+
+2. To run the project enter the folder socket-proj, open a terminal window and enter the command "node index.js" which runs the index files which further launches the 
+servers and listens for requests at localhpst:8082 and further opens a browser page at the same url.
+
+3. To run the servers individually open a terminal window and enter "node <filename>".
+
+4. To run the react project individually open socket-prop, enter the client folder, open a terminal window and enter "npm start".
