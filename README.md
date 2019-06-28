@@ -9,3 +9,5 @@ Each tab calls a different component/s and displays data in forms of graphs, tab
 The project admin-dashboard was created using node.js and react.js frameworks mainly.
 Additionally react-chartjs2 was used to make charts.
 React material UI provides components such as tabs, cards and papers that were used to style the react pages.
+
+To use the project refer to instructions file.
