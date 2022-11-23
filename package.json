@@ -14,7 +14,7 @@
     "http": "0.0.0",
     "opn": "^6.0.0",
     "pkg": "^4.4.0",
-    "socket.io": "^2.4.0",
+    "socket.io": "^2.5.0",
     "socket.io-client": "^2.2.0"
   }
 }
